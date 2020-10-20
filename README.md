@@ -1,3 +1,4 @@
+#24292e
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### Hello,World! 👋
    * __-🔭 I’m currently working on HelloWorld! xD__ <br/>
