@@ -1,4 +1,7 @@
-#24292e
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### Hello,World! 👋
    * __-🔭 I’m currently working on HelloWorld! xD__ <br/>
