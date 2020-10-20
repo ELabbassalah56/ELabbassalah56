@@ -1,6 +1,6 @@
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+<div style="background-color: darkblue;">
+  
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### Hello,World! 👋
@@ -12,3 +12,4 @@
    * __- 📫 How to reach me: ***[SlackRoom](https://join.slack.com/t/diplomacalend-7f12265/shared_invite/zt-ioly6168-wcXyz~2Pg2PHVkpHGAUHhQ),[Email](abassalah219@gmail.com)***__  <br/>
    * __- ⚡ Fun fact: hello,World!__ 
   
+</div>
