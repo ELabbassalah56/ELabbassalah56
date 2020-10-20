@@ -1,4 +1,4 @@
-![bg](red)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### Hello,World! 👋
    * __-🔭 I’m currently working on HelloWorld! xD__ <br/>
    * __- 🌱 I’m currently learning Full satck and embedded ARM && AVR32__ <br/>
