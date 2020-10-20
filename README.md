@@ -1,7 +1,4 @@
-<div style="background-color: #f66a0a;">
-  
-
-
+<div class="text-gray-dark mb-2">
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### Hello,World! 👋
    * __-🔭 I’m currently working on HelloWorld! xD__ <br/>
