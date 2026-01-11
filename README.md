@@ -42,14 +42,11 @@ I'm a passionate and results-driven Software Engineer with 4+ years of experienc
 
 ### 📫 Let's Connect!
 
-- **Email**: [abassalah219@gmail.com](mailto:abassalah219@gmail.com)
-- **LinkedIn**: [linkedin.com/in/elabbas-salah](https://www.linkedin.com/in/elabbas-salah/)
-- **Resume**: [View My CV]([https://github.com/ELabbassalah56/elabbas_CV](https://elabbassalah56.github.io))
+- **Email**: [abassalah219@gmail.com](mailto:abassalah92@gmail.com)
+- **LinkedIn**: [linkedin.com/in/elabbas-salah](https://www.linkedin.com/in/elabbas-salah-hatata-442743179/)
+- **Resume**: [View My CV](https://elabbassalah56.github.io)
 
 ---
 
-⚡ **Fun Fact:** A clean and powerful workstation is my creative fuel!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELabbassalah56&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+⚡ **Fun Fact:** A clean and powerful workstation is my creative fuel!<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ELabbassalah56&theme=radical )](https://git.io/streak-stats )
