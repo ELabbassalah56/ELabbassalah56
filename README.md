@@ -49,4 +49,4 @@ I'm a passionate and results-driven Software Engineer with 4+ years of experienc
 ---
 
 ⚡ **Fun Fact:** A clean and powerful workstation is my creative fuel!<p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=ELabbassalah56%20&theme=github-green-purple&date_format=%5BY%20%5DM%20j&card_width=505&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=great-gatsby)](https://git.io/streak-stats)
